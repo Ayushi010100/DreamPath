@@ -91,11 +91,10 @@ em{
     overflow: auto;
 }
 .navbar li{
-   
-   
     list-style: none;
     margin: 15px auto;
     font-size: 18px;
+    text-align:center;
     
 }
 .navbar li a{
